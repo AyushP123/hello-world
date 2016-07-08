@@ -1,2 +1,2 @@
 # hello-world
-first git project
+started working at tonbo imaging
